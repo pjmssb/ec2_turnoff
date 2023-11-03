@@ -28,3 +28,4 @@ Asegúrese de reiniciar su terminal PowerShell o su computadora para garantizar 
 ## Solución de Problemas
 
 Si encuentra algún error durante la ejecución de los scripts, asegúrese de que su política de ejecución de PowerShell permita la ejecución de scripts y que tenga una conexión a internet estable.
+    
