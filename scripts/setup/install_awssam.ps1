@@ -4,5 +4,5 @@ Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://cho
 
 # Install the latest stable version of AWS SAM CLI
 # choco install aws-sam-cli --yes --> Bad chatGPT command
-# From choco documentation --> https://community.chocolatey.org/packages/awssamcli/1.24.1
-choco install awssamcli --version=1.24.1
+# From choco documentation --> https://community.chocolatey.org/packages/awssamcli
+choco install awssamcli 
